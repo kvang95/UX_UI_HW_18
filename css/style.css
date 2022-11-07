@@ -1,0 +1,66 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 100%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+    text-align: center;
+}
+
+ul {
+    width:50%;
+    margin-left: auto;
+    padding: 110px;
+}
+
+li {
+    display: inline-block;
+    padding: 15px;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 80px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: lightgray;
+    padding: 5px;
+}
+
+footer {
+    background-color: #a3ccef;
+    height: 300px;
+}
+
+
+*/My UX Skills*/ 
+
+.flexcontainer {
+    display: flex;
+    width: 33%;
+    padding: 80px;
+    margin: 0 auto;
+    flex-direction: column-reverse;
+}
+
+.workGrid {
+    display: grid;
+}
+
+button {
+    padding:5px;
+}
